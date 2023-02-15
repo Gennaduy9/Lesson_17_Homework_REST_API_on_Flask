@@ -240,3 +240,4 @@ class GenreView(Resource):
 
 if __name__ == '__main__':
     app.run(port=3982, debug=True)
+    
